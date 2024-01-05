@@ -1,4 +1,4 @@
-# Megh Mavani's Portfolio
+#  My Portfolio
 
 ## Overview
 
