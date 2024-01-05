@@ -12,7 +12,7 @@ A big thank you to everyone who contributed to this project! Your support and co
 
 - **[YouTube Tutorial](https://youtu.be/0YFrGy_mzjY?feature=shared)**
   - **Contributor:** [GreatStack](#)
-  - **Contribution:** Provided guidance and insights through a helpful YouTube tutorial, which played a role in the development of this project.
+  - **Contribution:** Provided guidance and insights into the applications of JavaScript through a helpful YouTube tutorial, which played a role in the development of this project.
 
 ### Google Sheets Integration
 
